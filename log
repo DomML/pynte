@@ -1,0 +1,17 @@
+H-Bonds Plugin, Version 1.1
+Thu Nov 26 20:03:03 CET 2015
+
+Parameters used in the calculation of hydrogen bonds:
+- Atomselection 1: all
+- Update selections every frame: yes
+- Initial frame: 0
+- Frame step: 1
+- Final frame: 0
+- Donor-Acceptor distance: 4
+- Angle cutoff: 40
+- Type: all
+- Write a file with H bond/frame data: yes
+- Filename: hbonds.dat
+- Details output file: hbonds-details.dat
+
+Printing frame/hbond data to file... Done.
